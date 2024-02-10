@@ -1,0 +1,1 @@
+npm run start to run the file locally. not even going to bother with docker lol. components work. did multiple. also test library works with testing but storybook wasnt succesful. tried trouble shooting versions but didnt work. hope my efforts were worth some grades.
